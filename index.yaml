@@ -3,7 +3,17 @@ entries:
   mychart:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-09-05T17:22:57.64841667Z"
+    created: "2025-09-05T17:28:05.703913168Z"
+    description: A Helm chart for Kubernetes v2
+    digest: 6b82b1889ac25bc36ce2b45715660bbe93a23d758e834d08afd93313653b64af
+    name: mychart
+    type: application
+    urls:
+    - https://lneves75.github.io/helm-repo/mychart-2.0.1.tgz
+    version: 2.0.1
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2025-09-05T17:28:05.703732868Z"
     description: A Helm chart for Kubernetes v2
     digest: ff212c30080be2b99b23d30f89f03ea994c4dba9fadba34042d27afffea40a82
     name: mychart
@@ -13,12 +23,12 @@ entries:
     version: 2.0.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-09-05T17:22:57.648251084Z"
+    created: "2025-09-05T17:28:05.7035793Z"
     description: A Helm chart for Kubernetes
-    digest: 9fc4a0fd506d081b430c81fe94a8839da9c6f0c6957b52d9f9a969535f13b298
+    digest: d557a3bdb2a45d444ad487296d974fda7f7a19457feb0dcb31c7f31c6a4c9464
     name: mychart
     type: application
     urls:
     - https://lneves75.github.io/helm-repo/mychart-1.1.0.tgz
     version: 1.1.0
-generated: "2025-09-05T17:22:57.64760075Z"
+generated: "2025-09-05T17:28:05.702979439Z"
